@@ -1,8 +1,5 @@
 /*
 Keira Ryan
-2431681
-keiryan@chapman.edu
-CPSC 350 Section 2
 Programming Assignment 4: Genetic Palindromes
 
 The PalindromeFinder class reads an input file line by line, 
