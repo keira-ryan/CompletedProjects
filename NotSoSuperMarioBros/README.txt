@@ -1,7 +1,4 @@
 Keira Ryan
-2431681
-keiryan@chapman.edu
-CPSC 350 Section 2
 Programming Assignment 2: Not So Super Mario Bros.
 
 Source Files Submitted: Mario.cpp, FileProcessor.cpp, World.cpp, and main.cpp
