@@ -1,8 +1,5 @@
 /*
 Keira Ryan
-2431681
-keiryan@chapman.edu
-CPSC 350 Section 2
 Programming Assignment 2: Not So Super Mario Bros.
 
 The World class creates and populates the char*** World that
