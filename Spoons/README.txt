@@ -1,6 +1,4 @@
 Keira Ryan
-2431681
-keiryan@chapman.edu
 CPSC 231 Section 1
 MP3B: Spoons
 
