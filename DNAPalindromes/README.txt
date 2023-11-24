@@ -1,7 +1,4 @@
 Keira Ryan
-2431681
-keiryan@chapman.edu
-CPSC 350 Section 2
 Programming Assignment 4: Genetic Palindromes
 
 Source Files Submitted: DblList.h, ListNode.h, DNASeq.cpp, PalindromeFinder.cpp, and main.cpp
